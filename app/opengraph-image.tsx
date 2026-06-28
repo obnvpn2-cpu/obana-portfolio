@@ -26,7 +26,7 @@ export default function Image() {
       >
         <div style={{ display: "flex", justifyContent: "space-between", fontSize: 28, fontWeight: 700 }}>
           <span>Web実装・運用改善</span>
-          <span style={{ color: "#0f766e" }}>Portfolio</span>
+          <span style={{ color: "#0f766e" }}>公開実績</span>
         </div>
         <div style={{ display: "flex", flexDirection: "column" }}>
           <div style={{ fontSize: 92, fontWeight: 900, lineHeight: 1.1 }}>Web実装・運用改善ポートフォリオ</div>

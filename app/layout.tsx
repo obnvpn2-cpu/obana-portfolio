@@ -21,6 +21,14 @@ export const metadata: Metadata = {
   },
   description:
     "Webサイト運用、LP / ECサイト制作・改修、業務自動化の経験をもとに、現場課題を使いやすい形へ落とし込むポートフォリオです。",
+  icons: {
+    icon: [
+      { url: "/icon.svg", type: "image/svg+xml" },
+      { url: "/favicon-32.png", sizes: "32x32", type: "image/png" },
+      { url: "/favicon-16.png", sizes: "16x16", type: "image/png" },
+    ],
+    apple: [{ url: "/apple-icon.png", sizes: "180x180", type: "image/png" }],
+  },
   openGraph: {
     title: "Web実装・運用改善ポートフォリオ",
     description:
